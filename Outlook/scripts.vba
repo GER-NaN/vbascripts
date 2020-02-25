@@ -6,7 +6,7 @@ On Error Resume Next
     Dim MyItem As MailItem
     Dim FilePath As String
     
-    FilePath = "C:\Documentation\MailMemo\"
+FilePath = "C:\temp\"
     Dim ItemName As String
     Set MyWindow = Application.ActiveInspector
     
